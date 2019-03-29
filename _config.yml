@@ -1,6 +1,6 @@
 title: Cogntive Neuroscience Lab
 logo: /assets/img/logo.png
 description: We study how the mind emerges from the brain.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
