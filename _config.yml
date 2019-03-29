@@ -3,5 +3,5 @@ logo: /assets/img/logo.png
 description: We study how the mind emerges from the brain.
 show_downloads: true
 google_analytics:
-github.is_user_page: true
+is_user_page: true
 theme: jekyll-theme-minimal
